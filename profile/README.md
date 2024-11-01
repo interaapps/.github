@@ -1,8 +1,16 @@
-<img src="/images/b.png" width="100%">
+<a>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="/images/logo-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="/images/logo-light.svg" />
+<img src="/branding/fw-logo.svg" width="200px" />
+</picture>
+</a>
+<br>
+
+<br>
 
 
-
-
+<p align="center">
 
 | Our Services                                                                                                         | For Developers                                               | Design & More                                                                                   |
 |----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -10,4 +18,6 @@
 | [Punyshort](https://puny.be): URL-Shortener ([code](https://github.com/interaapps/punyshort))                        | [Cajax](https://github.com/interaapps/cajax) `JS`            | [fonts.intera.dev](https://fonts.intera.dev/)                                                   |
 | [Quotysco](https://quotysco.eu): Blogging-Platform     ([code](https://github.com/interaapps/quotysco))              | [Petrel](https://github.com/interaapps/Petrel) `JS`          | [our website](https://interaapps.de) ([our website](https://github.com/interaapps/new-website)) |
 | [Pastefy Codebox](https://box.pastefy.app): Code Playground  ([code](https://github.com/interaapps/pastefy-codebox)) | [Ulole](https://github.com/interaapps/ulole-framework) `PHP` |                                                                                                 |
-| [InteraApps Accounts](https://accounts.interaapps.de)                                                                | [JSONPlus](https://github.com/interaapps/jsonplus) `PHP`     |                                                                                                 |
+| [InteraApps Accounts](https://accounts.interaapps.de)                                                                | [JSONPlus](https://github.com/interaapps/jsonplus) `PHP`     |            
+
+</p>
