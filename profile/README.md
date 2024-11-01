@@ -23,9 +23,9 @@
 <table>
 <thead>
 <tr>
-<th><img width="441" height="1">Our Services <img width="441" height="1"></th>
-<th><img width="441" height="1">For Developers <img width="441" height="1"></th>
-<th><img width="441" height="1">Design &amp; More <img width="441" height="1"></th>
+<th><img width="260" height="1">Our Services <img width="260" height="1"></th>
+<th><img width="260" height="1">For Developers <img width="260" height="1"></th>
+<th><img width="260" height="1">Design &amp; More <img width="260" height="1"></th>
 </tr>
 </thead>
 <tbody>
